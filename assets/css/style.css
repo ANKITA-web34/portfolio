@@ -2644,7 +2644,9 @@ p {
 
 .single-portfolio .portfolio-image {
   position: relative;
-  overflow: hidden; }
+  overflow: hidden;
+  padding: 1rem 1rem;
+}
   .single-portfolio .portfolio-image img {
     width: 100%;
     -webkit-transition: all 0.3s ease-out 0s;
